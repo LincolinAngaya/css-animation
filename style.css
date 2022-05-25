@@ -19,7 +19,6 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-color: red;
 }
 
 .logo{
@@ -64,5 +63,24 @@ small{
   width:30px;
   margin: 40px auto 0;
   cursor: pointer;
+  padding-bottom: 12px;
 }
+.social-links img,.useful-links img{
+width: 25px;
+margin: 5px auto;
+cursor: pointer;
+padding: 1px 2px 1px 1px;
+}
+.social-links {
+  width: 50px;
+  text-align: center;
+  position:absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+.useful-links {
+  width: 50px;
+  text-align: center;
+  position:absolute;
 
+}
