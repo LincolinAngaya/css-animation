@@ -12,7 +12,10 @@
   position: relative;
   overflow: hidden;
 }
-
+.logo{
+  width: 200px;
+  cursor: pointer;
+}
 
 
 
