@@ -19,6 +19,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  background-color: red;
 }
 
 .logo{
@@ -52,11 +53,10 @@ small{
 }
 
 .side-bar{
-  width: 50px;
+  width: 30px;
   height: 100vh;
   background: linear-gradient(#00545d, #000729);
   position: absolute;
-  right: 0;
-  left: 0;
+ 
 }
 
