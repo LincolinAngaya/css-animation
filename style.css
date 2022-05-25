@@ -12,6 +12,14 @@
   position: relative;
   overflow: hidden;
 }
+.navbar{
+  width: 85%;
+  height: 15%;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
 .logo{
   width: 200px;
   cursor: pointer;
