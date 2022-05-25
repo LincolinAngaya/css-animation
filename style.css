@@ -53,7 +53,7 @@ small{
 }
 
 .side-bar{
-  width: 30px;
+  width: 40px;
   height: 100vh;
   background: linear-gradient(#00545d, #000729);
   position: absolute;
@@ -61,6 +61,8 @@ small{
 }
 .menu{
   display: block;
-  width
+  width:30px;
+  margin: 40px auto 0;
+  cursor: pointer;
 }
 
